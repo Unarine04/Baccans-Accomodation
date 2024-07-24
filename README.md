@@ -14,6 +14,6 @@ recommendations for landlords, helping them optimize their property listings, pr
 amenities to attract more tenants. By offering data-driven insights and personalized recommendations, the 
 software enables landlords to make informed decisions that enhance their properties' visibility, occupancy 
 rates, and financial performance. 
-Target Users:
+# Target Users:
 • Students: Self-funded students seeking accommodation near their educational institution. 
 • Landlords: Individuals with rooms available for rent to students. 
