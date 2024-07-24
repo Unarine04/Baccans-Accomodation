@@ -17,3 +17,4 @@ rates, and financial performance.
 # Target Users:
 • Students: Self-funded students seeking accommodation near their educational institution. 
 • Landlords: Individuals with rooms available for rent to students. 
+
