@@ -22,3 +22,4 @@ rates, and financial performance.
 • Students: Self-funded students seeking accommodation near their educational institution. 
 • Landlords: Individuals with rooms available for rent to students. 
 
+Thanks to @codeAstro
